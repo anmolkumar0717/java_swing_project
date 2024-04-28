@@ -36,4 +36,4 @@ This is a simple inventory management system built using Java Swing for the user
 1. **Clone the Repository**:
 
    ```bash
-   git cloneg github.com/anmolkumar0717/java_swing_project/tree/main/log_in
+   git clone github.com/anmolkumar0717/java_swing_project/tree/main/log_in
